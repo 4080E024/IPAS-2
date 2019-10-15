@@ -1,5 +1,5 @@
 
-#1
+# 1
 ```
 1. John is analyzing(分析) strange behavior(奇怪的行為) on computers in his network. 
 He believes there is malwareon(惡意程式) the machines.
@@ -32,7 +32,7 @@ is suspicious(懷疑) of
 
 
 
-#3
+# 3
 ```
 3. You are a security administrator for a medium-sized bank.
 You have discovered a piece of software on your bank’s database server that is not supposed to be there.
@@ -51,7 +51,7 @@ D. Rootkit
 
 
 
-#5
+# 5
 ```
 5. Juanita is a network administrator for a small accounting firm. 
 The users on her network are complaining of slow connectivity(很慢的連線).
@@ -66,7 +66,19 @@ D. ARP poisoning
 ```
 答案是:B
 ```
+```
 
+
+
+
+# 10
+```
+10. Your company outsourced(外包) development of an accounting application to a local programming firm. 
+After three months of using the product, one of your accountants(會計師) accidently discovers a way to log in(登入) and bypass(繞過) all security and authentication. What best describes this?
+A. Logic bomb(邏輯炸彈)
+B. Trojan horse
+C. Backdoor
+D. Rootkit
 
 
 
