@@ -100,6 +100,7 @@ D. A pivot(樞軸)
 答案是:D
 ```
 
+```
 # 27
 ```
 27. While investigating(調查中) a malware outbreak(惡意軟件爆發) on your company network(公司網絡), you discover something very odd. 
@@ -116,7 +117,7 @@ D. Refactoring(重構)
 答案是:A
 ```
 
-
+```
 # 28
 ```
 28. Your company has hired(僱用) a penetration testing firm(滲透測試公司) to test the network. 
@@ -130,7 +131,7 @@ D. Threat test(威脅測試)
 ```
 答案是:A
 ```
-
+```
 # 29
 ``` 
 Frank is a network administrator(網絡管理員) for a small college. 
@@ -145,7 +146,7 @@ D. Backdoor
 ```
 答案是:B
 ```
-
+```
 # 30
 ```
 30. John is a salesman(推銷員) for an automobile company(汽車公司). 
