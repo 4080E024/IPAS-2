@@ -97,7 +97,10 @@ C. Black-box testing
 D. A pivot
 
 
+```
 
+# 27
+```
 27. While investigating a malware outbreak on your company network, you discover something very odd. 
 There is a file that has the same name as a Windows system DLL, and even has the same API interface,
 but handles input very differently, in a manner to help compromise the system, 
@@ -108,8 +111,9 @@ B. Trojan horse
 C. Backdoor
 D. Refactoring
 
-
-
+```
+# 28
+```
 28. Your company has hired a penetration testing firm to test the network. 
 For the test, you have given the company details on operating systems you use, applications you run, and network devices.
 What best describes this type of test?
@@ -118,8 +122,9 @@ B. External test
 C. Black-box test
 D. Threat test
 
-
-
+```
+#29
+```
 29. Frank is a network administrator for a small college.
 He discovers that several machines on his network are infected with malware. 
 That malware is sending a flood of packets to a target external to the network.
@@ -129,8 +134,9 @@ B. DDoS
 C. Botnet
 D. Backdoor
 
-
-
+```
+# 30
+```
 30. John is a salesman for an automobile company. 
 He recently downloaded a program from an unknown website, and now his client files have their file extensions changed,
 and he cannot open them. He has received a popup window that states his files are now
