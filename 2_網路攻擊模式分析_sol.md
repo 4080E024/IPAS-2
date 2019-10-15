@@ -1,4 +1,4 @@
-```
+
 #1
 ```
 1. John is analyzing(分析) strange behavior(奇怪的行為) on computers in his network. 
@@ -29,6 +29,9 @@ is suspicious(懷疑) of
 答案:C
 ```
 ```
+
+
+
 #3
 ```
 3. You are a security administrator for a medium-sized bank.
@@ -40,14 +43,14 @@ B. Logic bomb
 C. Trojan horse
 D. Rootkit
 ```
-
-
-
-
-
-
-
 ```
+
+
+
+
+
+
+
 #5
 ```
 5. Juanita is a network administrator for a small accounting firm. 
