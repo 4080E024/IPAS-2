@@ -16,7 +16,8 @@ D. Key logger(鍵盤側錄)
 ```
 2. Ahmed is a sales manager with a major insurance company. 
 He has received an email that is encouraging him to click on a link and fill out a survey. 
-He is suspicious(懷疑) of the email, but it does mention a major insurance association,and that makes him think it might be legitimate(合法). 
+He is suspicious(懷疑) of the email, but it does mention a major insurance association,
+and that makes him think it might be legitimate(合法). 
 Which of the following best describes this attack?
 A. Phishing  網路釣魚
 B. Social engineering 社交工程
