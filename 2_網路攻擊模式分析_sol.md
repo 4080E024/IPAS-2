@@ -116,6 +116,7 @@ D. Refactoring(重構)
 答案是:A
 ```
 
+
 # 28
 ```
 28. Your company has hired(僱用) a penetration testing firm(滲透測試公司) to test the network. 
@@ -129,8 +130,8 @@ D. Threat test(威脅測試)
 ```
 答案是:A
 ```
-# 29
 
+# 29
 ``` 
 Frank is a network administrator(網絡管理員) for a small college. 
 He discovers that several machines on his network are infected(被感染) with malware(惡意軟件).
