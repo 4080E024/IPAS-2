@@ -43,7 +43,7 @@ B. Logic bomb
 C. Trojan horse
 D. Rootkit
 ```
-```
+
 
 
 
@@ -66,7 +66,7 @@ D. ARP poisoning
 ```
 答案是:B
 ```
-```
+
 
 
 
@@ -81,7 +81,6 @@ C. Backdoor
 D. Rootkit
 
 
-```
 ```
 
 
