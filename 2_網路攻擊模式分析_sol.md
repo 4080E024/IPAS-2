@@ -27,7 +27,7 @@ D. Trojan horse (特洛伊)木馬
 Which of the following ==下列何者
 is suspicious(懷疑) of
 答案:C
-```
+
 ```
 
 
