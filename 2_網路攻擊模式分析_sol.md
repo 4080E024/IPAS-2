@@ -74,7 +74,9 @@ D. ARP poisoning
 # 10
 ```
 10. Your company outsourced(外包) development of an accounting application to a local programming firm. 
-After three months of using the product, one of your accountants(會計師) accidently discovers a way to log in(登入) and bypass(繞過) all security and authentication. What best describes this?
+After three months of using the product, 
+one of your accountants(會計師) accidently discovers a way to log in(登入) and bypass(繞過) all security and authentication. 
+What best describes this?
 A. Logic bomb(邏輯炸彈)
 B. Trojan horse
 C. Backdoor
