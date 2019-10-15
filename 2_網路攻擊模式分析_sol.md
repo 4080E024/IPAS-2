@@ -1,3 +1,4 @@
+```
 #1
 ```
 1. John is analyzing(分析) strange behavior(奇怪的行為) on computers in his network. 
@@ -27,7 +28,7 @@ Which of the following ==下列何者
 is suspicious(懷疑) of
 答案:C
 ```
-
+```
 #3
 ```
 3. You are a security administrator for a medium-sized bank.
@@ -46,7 +47,7 @@ D. Rootkit
 
 
 
-
+```
 #5
 ```
 5. Juanita is a network administrator for a small accounting firm. 
